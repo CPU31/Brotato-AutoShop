@@ -1,0 +1,11 @@
+dist/
+.godot/
+.import/
+__pycache__/
+*.pyc
+*.pck
+*.exe
+*.dll
+*.log
+.env
+.env.*

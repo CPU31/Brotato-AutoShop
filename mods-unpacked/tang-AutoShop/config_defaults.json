@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"dry_run": false,
+	"whitelist": [],
+	"keep_gold": 0,
+	"max_item_price": -1,
+	"max_rerolls": -1,
+	"max_reroll_cost": -1,
+	"buy_weapons": false,
+	"buy_consumables": false,
+	"auto_depart": false,
+	"confirm_delay": 0.2,
+	"verbose": true,
+	"preset_initialized": false
+}
